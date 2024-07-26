@@ -2,8 +2,7 @@
   "questions": [
     {
       "question": "Como faço para redefinir minha senha?",
-      "answer": "Para redefinir sua senha, clique em \"Esqueceu sua senha?\" na tela de login e siga as instruções.",
-      "status": "true or false"
+      "answer": "Para redefinir sua senha, clique em \"Esqueceu sua senha?\" na tela de login e siga as instruções."
     },
     {
       "question": "Quais são os métodos de pagamento aceitos?",
