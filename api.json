@@ -1,0 +1,21 @@
+{
+  "questions": [
+    {
+      "question": "Como faço para redefinir minha senha?",
+      "answer": "Para redefinir sua senha, clique em \"Esqueceu sua senha?\" na tela de login e siga as instruções.",
+      "status": "true or false"
+    },
+    {
+      "question": "Quais são os métodos de pagamento aceitos?",
+      "answer": "Aceitamos Visa, Mastercard, American Express e Paypal."
+    },
+    {
+      "question": "Qual é a política de reembolso?",
+      "answer": "Nosso objetivo é garantir a sua satisfação. Se você não estiver satisfeito com o nosso produto, aceitamos solicitações de reembolso até 30 dias após a compra. Entre em contato com o nosso suporte ao cliente."      
+    },
+    {
+      "question": "Como entro em contato com o suporte?",
+      "answer": "Você pode nos contatar pelo e-mail, telefone ou chat ao vivo. Visite a nossa página de suporte para mais informações."      
+    }
+  ]
+}
